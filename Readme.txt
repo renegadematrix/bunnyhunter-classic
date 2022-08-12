@@ -1,3 +1,11 @@
+This project is a restoration of the addon for Classic WOW Players.
+
+Renegadetrix Benediction-US
+
+{Previous Readme is maintained below}
+==============================================
+
+
 Ever been grinding for the Hyacinth Macaw and wanted to know just how unlucky you are? Then this is the addon for you!
 
 Bunny Hunter tracks how many times you've looted mobs that drop rare pets, how long you've spent farming and shows you the chance that you should have gotten your pet by now. Supports (nearly) all the farmable pets and tracks multiple drops of each pet. Just start looting those Bloodsail Pirates!
